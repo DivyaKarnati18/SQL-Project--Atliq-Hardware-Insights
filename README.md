@@ -1,21 +1,22 @@
 # Atliq Hardware Insights Project
 
-## Overview
-**Project**: Provide Insights to Management  
-**Domain**: Consumer Goods  
-**Function**: Executive Management  
-
 ## About the Company
 Atliq Hardware (imaginary company) is one of India's leading computer hardware producers and well expanded in other countries.
 
 ## Problem Statement
 To improve decision-making, Atliq Hardware expanded its data analytics team under the guidance of Tony Sharma, the Data Analytics Director. Recognizing the need for both technical and soft skills, an SQL challenge was launched to recruit junior data analysts.
 
+
+## Overview
+**Project**: Provide Insights to Management  
+**Domain**: Consumer Goods  
+**Function**: Executive Management  
+
 ## Task
 - Answer 10 Ad-hoc requests by running SQL Queries.
 - Create a presentation to show the insights.
 
-## Tools Used
+## Tech Task
 - **MySQL**: For SQL Queries
 - **Microsoft Excel**: For data visualization
 - **Microsoft PowerPoint**: For presentation
@@ -25,4 +26,29 @@ To improve decision-making, Atliq Hardware expanded its data analytics team unde
 - Creating visuals in Excel & presenting insights using Microsoft PowerPoint.
 
 ## Insights and Conclusion
-In the project, I delved into 10 Ad-hoc queries, unraveling key details about top products, customers, markets, and crucial metrics like gross price, pre-invoice deductions, manufacturing costs, and sales quantity. “It's all about turning data into actionable insights!"
+
+## Sales Performance Overview
+
+### Fiscal Year 2021 Highlights
+
+- Our unique product experienced a **remarkable 36.33% increase in sales** compared to the previous year.
+
+### Product Portfolio Insights
+
+- **Top-Selling Product:** Notebook
+- **Lowest Sales Figures:** Networking product line
+
+### Manufacturing Costs
+
+- **Highest Expenditure:** Desktops
+- **Lowest Expenditure:** Mouse production
+
+### Customer Contribution (FY2021)
+
+- **Highest Contribution:** Flipkart (30.83%)
+- **Lowest Contribution:** Amazon (29.33%)
+
+### Sales Period Highlights
+
+- **Lowest Sales Period:** March 2020, with sales of 2.8 million units
+- **Highest Sales Contribution:** November 2021, with a record of 32.2 million units sold
